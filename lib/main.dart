@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+
 import 'package:pedometer/pedometer.dart';
 // ignore: unused_import
 import 'package:permission_handler/permission_handler.dart';
@@ -82,12 +84,12 @@ class _StepCounterState extends State<StepCounter> {
   
   @override
   Widget build(BuildContext context) {
-   return MaterialApp(
-      home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Pedometer example app'),
+   return CupertinoPageScaffold(
+     
+        navigationBar: CupertinoNavigationBar(
+          middle: const Text('Pedometer example app'),
         ),
-        body: Center(
+        child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
@@ -127,7 +129,7 @@ class _StepCounterState extends State<StepCounter> {
             ],
           ),
         ),
-      ),
+      
     );
   }
   }
