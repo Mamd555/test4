@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "M:\\pedo_test\\test3\\flutter_application_1\\build\\permission_handler_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ne\\values-ne.xml",
+            "outputFile": "M:\\pedo_test\\test4\\build\\permission_handler_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\values-ne\\values-ne.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "M:\\pedo_test\\test3\\flutter_application_1\\build\\permission_handler_android\\intermediates\\merged_res\\release\\values-ne\\values-ne.xml",
+            "outputFile": "M:\\pedo_test\\test4\\build\\permission_handler_android\\intermediates\\merged_res\\release\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\values-ne\\values-ne.xml",

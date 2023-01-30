@@ -1,26 +1,26 @@
 [
     {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
         "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
         "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
         "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
         "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
     }
 ]

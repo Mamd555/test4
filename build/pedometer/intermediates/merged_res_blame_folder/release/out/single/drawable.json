@@ -1,18 +1,18 @@
 [
     {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "M:\\pedo_test\\test3\\flutter_application_1\\build\\pedometer\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "M:\\pedo_test\\test4\\build\\pedometer\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\studio\\.gradle\\caches\\transforms-3\\b22bf98c5c3be53183906059f43f6530\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
     }
 ]

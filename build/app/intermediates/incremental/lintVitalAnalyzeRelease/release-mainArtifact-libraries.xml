@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:M:\pedo_test\test3\flutter_application_1\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
-      jars="M:\pedo_test\test3\flutter_application_1\build\app\intermediates\flutter\release\libs.jar"
-      resolved="__local_aars__:M:\pedo_test\test3\flutter_application_1\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
+      name="__local_aars__:M:\pedo_test\test4\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
+      jars="M:\pedo_test\test4\build\app\intermediates\flutter\release\libs.jar"
+      resolved="__local_aars__:M:\pedo_test\test4\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
   <library
-      name="M:\pedo_test\test3\flutter_application_1\android@@:permission_handler_android::release"
-      jars="M:\pedo_test\test3\flutter_application_1\build\permission_handler_android\.transforms\408e84e198aa40341039c516ddcdf9ab\transformed\out\jars\classes.jar"
+      name="M:\pedo_test\test4\android@@:permission_handler_android::release"
+      jars="M:\pedo_test\test4\build\permission_handler_android\.transforms\b4a32c7e45e674318d118be6c1b8c5b5\transformed\out\jars\classes.jar"
       resolved="com.baseflow.permissionhandler:permission_handler_android:unspecified"
-      folder="M:\pedo_test\test3\flutter_application_1\build\permission_handler_android\.transforms\408e84e198aa40341039c516ddcdf9ab\transformed\out"
+      folder="M:\pedo_test\test4\build\permission_handler_android\.transforms\b4a32c7e45e674318d118be6c1b8c5b5\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="M:\pedo_test\test3\flutter_application_1\android@@:sensors::release"
-      jars="M:\pedo_test\test3\flutter_application_1\build\sensors\.transforms\e03ffbd093925233b3242061a53d95a3\transformed\out\jars\classes.jar"
+      name="M:\pedo_test\test4\android@@:sensors::release"
+      jars="M:\pedo_test\test4\build\sensors\.transforms\4df33a9dd10f4baa6ce127525fedb2d2\transformed\out\jars\classes.jar"
       resolved="io.flutter.plugins.sensors:sensors:unspecified"
-      folder="M:\pedo_test\test3\flutter_application_1\build\sensors\.transforms\e03ffbd093925233b3242061a53d95a3\transformed\out"
+      folder="M:\pedo_test\test4\build\sensors\.transforms\4df33a9dd10f4baa6ce127525fedb2d2\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="M:\pedo_test\test3\flutter_application_1\android@@:pedometer::release"
-      jars="M:\pedo_test\test3\flutter_application_1\build\pedometer\.transforms\14b55e983f1e65566f2b8e0e0902be07\transformed\out\jars\classes.jar"
+      name="M:\pedo_test\test4\android@@:pedometer::release"
+      jars="M:\pedo_test\test4\build\pedometer\.transforms\ac99ac2881a3774c8ea07fa125957e1f\transformed\out\jars\classes.jar"
       resolved="com.example.pedometer:pedometer:unspecified"
-      folder="M:\pedo_test\test3\flutter_application_1\build\pedometer\.transforms\14b55e983f1e65566f2b8e0e0902be07\transformed\out"
+      folder="M:\pedo_test\test4\build\pedometer\.transforms\ac99ac2881a3774c8ea07fa125957e1f\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
