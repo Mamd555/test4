@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pedometer/pedometer.dart';
+// ignore: unused_import
 import 'package:permission_handler/permission_handler.dart';
 import 'package:step_progress_indicator/step_progress_indicator.dart';
 
@@ -10,13 +11,14 @@ void main() {
 
 
 class StepCounter extends StatefulWidget {
+
   
   @override
   _StepCounterState createState() => _StepCounterState();
 }
 
 class _StepCounterState extends State<StepCounter> {
-   
+     
   late Stream<StepCount> _stepCountStream;
   late Stream<PedestrianStatus> _pedestrianStatusStream;
   String _status = '?', _steps = '?';
@@ -31,6 +33,7 @@ class _StepCounterState extends State<StepCounter> {
   
   void onPedestrianStatusChanged(PedestrianStatus event) {
     print(event);
+    print("ddddd");
     setState(() {
       _status = event.status;
     });
