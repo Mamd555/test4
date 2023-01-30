@@ -69,7 +69,7 @@ class _StepCounterState extends State<StepCounter> {
 
 
   void _initPlatformState() async {
-  //  if(await Permission.activityRecognition.request().isGranted)  {
+   if(await Permission.activityRecognition.request().isGranted)  {
         _pedestrianStatusStream = await Pedometer.pedestrianStatusStream;
         _pedestrianStatusStream
         .listen(onPedestrianStatusChanged)
@@ -82,7 +82,10 @@ class _StepCounterState extends State<StepCounter> {
     
   }
   
-  @override
+ 
+  }
+  
+   @override
   Widget build(BuildContext context) {
    return CupertinoPageScaffold(
      
@@ -132,8 +135,7 @@ class _StepCounterState extends State<StepCounter> {
       
     );
   }
-  }
   
   
   
-  
+}
